@@ -1,0 +1,36 @@
+body {
+	background-color:lightblue;
+	color:darkgreen;
+	  font-family: "IM Fell DW Pica", cursive;
+	   font-size: 40;
+}
+h1	{
+font-size: 40px;
+font-size: 25px;
+	}
+h2{
+	background-color: white;
+}
+nav {
+	background-color:#000000; 
+	}
+ul{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	padding: 0;
+		}
+
+		li {
+			margin: 0;
+			padding:10px;
+}
+a {
+	text-decoration:none;
+	color:#fff;
+	}
+	li:hover{
+	transition:250ms;
+	background-color: #000000 ;
+
+}
